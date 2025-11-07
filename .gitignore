@@ -1,0 +1,8 @@
+# Ignorar archivos del sistema
+.DS_Store
+
+# Ignorar entorno virtual
+venv/
+
+# Ignorar caché de Python
+_pycache_/
